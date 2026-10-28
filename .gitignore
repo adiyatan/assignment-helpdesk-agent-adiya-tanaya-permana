@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+data/faiss_index.bin
+data/embeddings.npy
+test_*.py
